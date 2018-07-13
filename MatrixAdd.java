@@ -1,3 +1,4 @@
+//***********************ADDITION OF TWO MATRIXS ***********************//
 class MatrixAdd {
 	 public static void main(String args[]){
 		 int matrix1[][] = {{1,2,3}, {6,7,8}, {9,8,7}};
