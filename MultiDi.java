@@ -1,4 +1,5 @@
- class MultiDi {
+//******************** MULTI DIMENSION ARRAY USING MATRIX METHOD ******************// 
+class MultiDi {
 	 public static void main(String args[]){
 		 int array[][] = {{11,22,33,44,55}, {66,77,88,99,00}, {1,2,3,4,5}};
 		 multiDi (array);       // **calling main method ***//
